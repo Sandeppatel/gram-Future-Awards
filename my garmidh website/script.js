@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     tl.from(".lefts img", {
         y: -1000,
-        duration: 1,
+        duration: 0.5,
     });
     tl.from(".lefts h1", {
         y: -1000,
